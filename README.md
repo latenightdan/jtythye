@@ -19,4 +19,4 @@
 
 [![License](https://img.shields.io/badge/faiwhafwe-owfieoib-brightgreen)](https://en.wikipedia.org/wiki/SOLID) [![License](https://img.shields.io/badge/dsfadg-ewafw-brightgreen)](https://en.wikipedia.org/wiki/SOLID)
      
- ###https://en.wikipedia.org/wiki/SOLID ###https://en.wikipedia.org/wiki/SOLID
+ ### https://en.wikipedia.org/wiki/SOLID ### https://en.wikipedia.org/wiki/SOLID
