@@ -18,7 +18,7 @@
 ## Licenses:
 
 ## Licenses:
-
-[![License](https://img.shields.io/badge/fdsdffdsd-casuob-brightgreen)](https://www.youtube.com/watch?v=usu0XY4QNB0) [![License](https://img.shields.io/badge/owifoeifw-wfeoi-yellow)](https://www.youtube.com/watch?v=usu0XY4QNB0)
+[![License](https://img.shields.io/badge/afioh-efwa-brightgreen)](https://en.wikipedia.org/wiki/SOLID) [![License](https://img.shields.io/badge/efwg-wegaweg-yellow)](https://en.wikipedia.org/wiki/SOLID)
      
-      https://www.youtube.com/watch?v=usu0XY4QNB0 https://www.youtube.com/watch?v=usu0XY4QNB0
+      ###https://en.wikipedia.org/wiki/SOLID ###https://en.wikipedia.org/wiki/SOLID
+
