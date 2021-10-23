@@ -17,6 +17,7 @@
      fa
 ## Licenses:
 
-[![License](https://img.shields.io/badge/woihweoie-wpefowefoawihefwaef-yellow)](https://opensource.org/licenses/Apache-2.0) [![License](https://img.shields.io/badge/ieowghoiweafh-wewfeeefwa-orange)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/fsad-sa-brightgreen)](https://github.com/latenightdan/jtythye/blob/main/README.md)
      
-      f
+      https://github.com/latenightdan/jtythye/blob/main/README.md
+
