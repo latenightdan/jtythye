@@ -17,7 +17,6 @@
      fa
 ## Licenses:
 
-[![License](https://img.shields.io/badge/fsad-sa-brightgreen)](https://github.com/latenightdan/jtythye/blob/main/README.md)
+[![License](https://img.shields.io/badge/sdg-osaidnosdn-orange)](https://www.youtube.com/watch?v=usu0XY4QNB0)
      
-      https://github.com/latenightdan/jtythye/blob/main/README.md
-
+      https://www.youtube.com/watch?v=usu0XY4QNB0
